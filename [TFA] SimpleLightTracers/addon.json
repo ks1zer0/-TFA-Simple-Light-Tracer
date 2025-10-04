@@ -1,0 +1,11 @@
+{
+	"title"		:	"[TFA] Simple Light Tracer",
+	"type"		:	"effects",
+	"tags"		:	[ "realism", "comic" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
